@@ -3422,5 +3422,13 @@
     "chainId": 56,
     "decimals": 8,
     "logoURI": "https://tokens.pancakeswap.finance/images/0x0555E30da8f98308EdB960aa94C0Db47230d2B9c.png"
+  },
+  {
+    "name": "Wrapped TBURN",
+    "symbol": "wTBURN",
+    "address": "0x1D2171D3645aC3216Ed87Dc81BbD3D9DF4085Fe2",
+    "chainId": 56,
+    "decimals": 18,
+    "logoURI": "https://tburn.io/TBURN_logo250x250.png"
   }
 ]
